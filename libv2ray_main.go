@@ -16,16 +16,16 @@ import (
 
 	mobasset "golang.org/x/mobile/asset"
 
-	v2net "github.com/xtls/xray-core/common/net"
-	v2filesystem "github.com/xtls/xray-core/common/platform/filesystem"
-	v2core "github.com/xtls/xray-core/core"
-	v2stats "github.com/xtls/xray-core/features/stats"
-	v2serial "github.com/xtls/xray-core/infra/conf/serial"
-	_ "github.com/xtls/xray-core/main/distro/all"
-	v2internet "github.com/xtls/xray-core/transport/internet"
+	v2net "github.com/mrst2000/my-ray/common/net"
+	v2filesystem "github.com/mrst2000/my-ray/common/platform/filesystem"
+	v2core "github.com/mrst2000/my-ray/core"
+	v2stats "github.com/mrst2000/my-ray/features/stats"
+	v2serial "github.com/mrst2000/my-ray/infra/conf/serial"
+	_ "github.com/mrst2000/my-ray/main/distro/all"
+	v2internet "github.com/mrst2000/my-ray/transport/internet"
 
-	v2applog "github.com/xtls/xray-core/app/log"
-	v2commlog "github.com/xtls/xray-core/common/log"
+	v2applog "github.com/mrst2000/my-ray/app/log"
+	v2commlog "github.com/mrst2000/my-ray/common/log"
 )
 
 const (
