@@ -3,7 +3,7 @@ module github.com/mrst2000/AndroidLibXrayLite
 go 1.22.2
 
 require (
-	github.com/mrst2000/my-ray v1.0.1
+	github.com/mrst2000/my-ray v1.0.2
 	golang.org/x/mobile v0.0.0-20231127183840-76ac6878050a
 	golang.org/x/sys v0.18.0
 )
