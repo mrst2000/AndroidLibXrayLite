@@ -1,4 +1,4 @@
-module github.com/2dust/AndroidLibXrayLite
+module github.com/mrst2000/AndroidLibXrayLite
 
 go 1.22.2
 
