@@ -163,7 +163,7 @@ github.com/vishvananda/netns v0.0.4 h1:Oeaw1EM2JMxD51g9uhtC0D7erkIjgmj8+JZc26m1Y
 github.com/vishvananda/netns v0.0.4/go.mod h1:SpkAiCQRtJ6TvvxPnOSyH3BMl6unz3xZlaprSwhNNJM=
 github.com/xtls/reality v0.0.0-20231112171332-de1173cf2b19 h1:capMfFYRgH9BCLd6A3Er/cH3A9Nz3CU2KwxwOQZIePI=
 github.com/xtls/reality v0.0.0-20231112171332-de1173cf2b19/go.mod h1:dm4y/1QwzjGaK17ofi0Vs6NpKAHegZky8qk6J2JJZAE=
-github.com/mrst2000/my-ray v1.1.7 h1:TUdo8o4+tMmBnezFaYv6HPkgfCKCQntgVt8BL4a9cVs=
+github.com/mrst2000/my-ray v1.1.7 h1:uLeeU8U2x3bj8IE22MRJ/4Zjc8Xkw11IvAotNx2CRHU=
 github.com/mrst2000/my-ray v1.1.7/go.mod h1:HRTL8ob4URlOUIt0wd4FhAOZnwelhMzuDrgS12ySF9s=
 go.opencensus.io v0.18.0/go.mod h1:vKdFvxhtzZ9onBp9VKHK8z/sRpBMnKAsufL7wlDrCOA=
 go.uber.org/mock v0.4.0 h1:VcM4ZOtdbR4f6VXfiOpwpVJDL6lCReaZ6mw31wqh7KU=
