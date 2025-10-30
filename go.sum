@@ -73,8 +73,8 @@ github.com/vishvananda/netns v0.0.5 h1:DfiHV+j8bA32MFM7bfEunvT8IAqQ/NzSJHtcmW5zd
 github.com/vishvananda/netns v0.0.5/go.mod h1:SpkAiCQRtJ6TvvxPnOSyH3BMl6unz3xZlaprSwhNNJM=
 github.com/xtls/reality v0.0.0-20251014195629-e4eec4520535 h1:nwobseOLLRtdbP6z7Z2aVI97u8ZptTgD1ofovhAKmeU=
 github.com/xtls/reality v0.0.0-20251014195629-e4eec4520535/go.mod h1:vbHCV/3VWUvy1oKvTxxWJRPEWSeR1sYgQHIh6u/JiZQ=
-github.com/mrst2000/Xray-core v1.4 h1:gwgJxWb9OABUJAYxiS33nQzk3MRVjidzBnHBrzKnxOw=
-github.com/mrst2000/Xray-core v1.4/go.mod h1:72ZU/srfutsNPmw9y8SCGRy0iccvshIRk8BNGR8D2Ik=
+github.com/mrst2000/Xray-core 1.5.1 h1:hLqajzhtVuo2i+7tkj9V4xIAbYl9o2w9Unq0dU5/2bY=
+github.com/mrst2000/Xray-core 1.5.1/go.mod h1:Mfv3zOWmAlJJKGbo8uRhVxG7vPMrSmlgtznCgXhsQAI=
 github.com/xyproto/randomstring v1.0.5 h1:YtlWPoRdgMu3NZtP45drfy1GKoojuR7hmRcnhZqKjWU=
 github.com/xyproto/randomstring v1.0.5/go.mod h1:rgmS5DeNXLivK7YprL0pY+lTuhNQW3iGxZ18UQApw/E=
 go.opentelemetry.io/auto/sdk v1.1.0 h1:cH53jehLUN6UFLY71z+NDOiNJqDdPRaXzTel0sJySYA=
